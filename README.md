@@ -1,4 +1,4 @@
-# Next.Js Website Tutorial: Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
+# Next.Js : Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
 ### Resources Used in This Project
 
 on [Unsplash](https://unsplash.com/photos/ILip77SbmOE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
